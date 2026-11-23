@@ -1,36 +1,143 @@
 
 a3 Lazy Load
+Speed up your site and enhance frontend user's visual experience in PC's, Tablets and mobile with a3 Lazy Load.
 a3rev Software
 https://a3rev.com/
 
 Advanced Editor Tools
+ブロックエディター (Gutenberg) とクラシックエディター (TinyMCE) を拡張、強化します。
 Automattic
 https://automattic.com/
 
 Aurora Heatmap
+オーロラのように美しい、プラグインだけで完結するシンプルな WordPress 用ヒートマップです。
 R3098
 https://seous.info/
 
 Blog Floating Button
+「Blog Floating Button(BFB)」はブログ内にフロートボタンを簡単に実装できるプラグインです。
 Meril Inc.
 https://meril.co.jp/
 
 Classic Editor
+WordPress の旧エディターと、TinyMCE、メタボックスなどを含む以前のスタイルの投稿編集画面レイアウトを有効化します。この画面を拡張する古いプラグインをサポートします。
 WordPress コントリビューター
 https://github.com/WordPress/classic-editor/
 
 Classic Widgets
+「外観」 > 「ウィジェット」とカスタマイザーで表示される旧来のウィジェット設定画面を有効化します。ウィジェット管理のブロックエディターを無効化します。
 https://github.com/WordPress/classic-widgets/
 WordPress Contributors
 
 CM Tooltip Glossary
-https://www.cminds.com/
+Easily create a Glossary, Encyclopedia or Dictionary of your custom terms. Plugin parses posts and pages searching for defined glossary terms and adds links to the glossary term page. Hovering over the link shows a tooltip with the definition.
 CreativeMindsSolutions
+https://www.cminds.com/
 
 EWWW Image Optimizer
 WebP、AVIF、遅延読み込みなどによる総合的な画像最適化。画像を自動的に最適化して、サイトを高速化し訪問者を満足させます。
-https://ewww.io/
 Exactly WWW
+https://ewww.io/
+
+FileBird Lite
+何千もの WordPress メディアファイルをフォルダー / カテゴリーに簡単に整理します。
+Ninja Team
+https://ninjateam.org/
+
+Hello Dolly
+これはただのプラグインではありません。Louis Armstrong によって歌われた最も有名な二つの単語、Hello, Dolly に要約された同一世代のすべての人々の希望と情熱を象徴するものです。このプラグインを有効にすると、すべての管理画面の右上に Hello, Dolly からの歌詞がランダムに表示されます。
+マット・マレンウェッグ
+http://ma.tt/
+
+Microsoft Clarity
+With data and session replay from Clarity, you'll see how people are using your site — where they get stuck and what they love.
+Microsoft
+https://www.microsoft.com/en-us/
+
+Pochipp
+Amazon・楽天市場・Yahooショッピングなどのアフィリエイトリンクを簡単に作成・管理できる、ブロックエディターに最適化されたプラグインです。
+ひろ
+https://twitter.com/hiro_develop127
+
+Pretty Links
+Shrink, track and share any URL using your website and brand.
+Pretty Links
+https://prettylinks.com/
+
+Quiz Cat Free
+Provides an easy way to create and administer quizzes
+Fatcat Apps
+https://fatcatapps.com/
+
+Rinker
+商品リンクの管理を楽にするプラグイン『Rinker』1.13.0です
+yayoi
+https://oyakosodate.com/
+
+Search Regex
+投稿、ページ、コメント、メタデータにわたって、正規表現に完全に対応した検索と置換機能を追加します
+John Godley
+https://profiles.wordpress.org/johnny5/
+
+Site Kit by Google
+Site Kit ひとつで、Googleが提供するWeb上で成功するためのあらゆるツールを WordPress ユーザーが利用できるようになります。
+Google
+https://opensource.google.com/
+
+SiteGuard WP Plugin
+画像認証、ログインロック、ログインアラート、ログイン URL の変更、SiteGuard WAF チューニングサポートなど、WordPress のログインおよび管理者保護機能を追加します。
+ジェイピー・セキュア
+https://www.eg-secure.co.jp/
+
+TablePress
+Embed beautiful and interactive tables into your WordPress website’s posts and pages, without having to write code!
+Tobias Bäthge
+https://tablepress.org/
+
+Throws SPAM Away
+コメント内に日本語の記述が存在しない場合はあたかも受け付けたように振る舞いながらも捨ててしまうプラグイン
+株式会社ジーティーアイ　さとう　たけし
+https://gti.co.jp/
+
+TypeSquare Webfonts for ConoHa
+ConoHa WINGで株式会社モリサワが提供するWebフォントサービス「TypeSquare」を利用できるプラグインです。
+GMO Internet Group, Inc.
+https://www.conoha.jp/
+
+UpdraftPlus - バックアップ/復元
+複数のバックアップ保存先に対応したバックアップと復元プラグイン。ローカル、Amazon S3、Dropbox、Google Drive、Rackspace、(S)FTP、WebDAV、メールに自動スケジュールでバックアップします。
+チームアップドラフト、DavidAnderson
+https://teamupdraft.com/updraftplus/pricing/?utm_source=udp-plugin&utm_medium=referral&utm_campaign=paac&utm_content=wp-dash-get-premium
+
+Useful Blocks
+痒いところに手がとどく、便利なブロックを集めたプラグインです。
+LOOS, Inc.
+https://ponhiro.com/useful-blocks/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
